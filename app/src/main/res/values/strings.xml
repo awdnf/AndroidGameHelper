@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">GamesHelper</string>
+    <string name="app_name">Games Helper</string>
+    <string name="create_marker">Create New Marker</string>
+    <string name="players_number">Number of players</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="markerType">Marker Type</string>
+    <string name="diceRadio">Dice Roll</string>
+    <string name="timeMarkerRadio">Time Marker</string>
+    <string name="pointsRadio">Points Marker</string>
+    <string name="diceNumbers">Number of dices </string>
+    <string name="diceFaces">Dice faces</string>
 </resources>
